@@ -1,1 +1,1 @@
-# AWSProz
+# AWSProz - EuroTour
