@@ -208,12 +208,12 @@ input.btn {
 
 /*PAG*/
 
-.sectionChamada {
+.sectionInitial {
   padding: 0em 0;
   background-color: #fff;
 }
 
-.sectionChamada .content {
+.sectionInitial .content {
   width: 100%;
   padding: 0;
   margin: 0;
@@ -314,21 +314,21 @@ input.btn {
   display: block;
 }
 
-.travelDestinations .desc {
+.travelDestinations .description {
   background-color: transparent;
   width: 100%;
   float: left;
   padding: 1em;
 }
 
-.travelDestinations .desc h2 {
+.travelDestinations .description h2 {
   width: 100%;
   text-align: center;
   float: justify;
   color: #1FADBC;
 }
 
-.travelDestinations .desc p {
+.travelDestinations .description p {
   width: 100%;
   float: center;
   text-align: center;
@@ -783,7 +783,7 @@ input.btn {
     text-align: left;
   }
 
-  .blockArticle .desc h3 {
+  .blockArticle .description h3 {
     font-size: 1.5em;
   }
 
@@ -977,7 +977,7 @@ input.btn {
     margin-right: 0;
   }
 
-  .travelDestinations .desc p {
+  .travelDestinations .description p {
     min-height: 120px;
   }
 
